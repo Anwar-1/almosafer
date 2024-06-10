@@ -15,7 +15,10 @@ public class myTestCases {
 	
 	
 	@Test
-	public void firstTest() {}
+	public void firstTest() {
+		
+		System.out.println("hello");
+	}
 	
 
 }
